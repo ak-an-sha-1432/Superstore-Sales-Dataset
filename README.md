@@ -1,5 +1,4 @@
-# Superstore-Sales-Dataset
-Task 1, 
+# Task 1 - Superstore-Sales-Dataset
 Data Cleaning and Preprocessing,
 Objective: Clean and prepare a raw dataset (with Blank, duplicates, inconsistent formats).,
 Tools: Excel,
